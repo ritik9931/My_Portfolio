@@ -1,7 +1,7 @@
 ## Ritik Kumar | Software Developer
 
-This app was created using https://getmocha.com.
-Need help or want to join the community? Join our [Discord](https://discord.gg/shDEGBSe2d).
+This app was created By Ritik Kumar.
+Need help contact ritikraj6699@gmail.com.
 
 To run the devserver:
 ```
